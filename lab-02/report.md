@@ -536,4 +536,4 @@ LinkedList: ~1000 операций
 
 ## Приложения
 - ![Graph 1](./report/img_1.png) 
-- ![Graph 2](./report/img_2.png) 
+- ![Graph 2](./report/img_2.jpg) 
