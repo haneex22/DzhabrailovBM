@@ -81,7 +81,7 @@ def demo_fractional_knapsack() -> None:
     print("Предметы (вес, стоимость, удельная стоимость):")
     for it in items:
         ratio = it.value / it.weight
-        print(f"  w = {it.weight:5.1f}, v = {it.value:5.1f}, v/w = {ratio:5.2f}")
+        print(f"  w = {it.weight:5.1f},v = {it.value:5.1f},v/w = {ratio:5.2f}")
 
     total_value, selection = fractional_knapsack(capacity, items)
 
