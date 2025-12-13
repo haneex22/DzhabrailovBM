@@ -283,6 +283,7 @@ def is_cyclic_shift(a: str, b: str, method: SearchMethod = "z") -> bool:
 
 ```
 ---
+
 Это основные файлы, все остальное в папке src
 ---
 
